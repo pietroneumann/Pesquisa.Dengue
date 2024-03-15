@@ -50,7 +50,6 @@ body, html {
 .button {
 
     width: 75px;
-        height: 55px;
     display: block;
         margin-right: auto;
     margin-left: auto;
@@ -117,7 +116,7 @@ background-image: linear-gradient( to right, 	#3CB371, 	#00FA9A);
 
     width: 2px;
         height: 0px;
-    display: flex;
+    display: block;
         margin-right: auto;
     margin-left: auto;
         font-size: 1px;
@@ -153,5 +152,96 @@ height: 300px;
 right: 8px;
      background-color: 	#3CB371; 
 background-image: linear-gradient( to right, 	#3CB371, 	#00FA9A);
+
+}
+
+
+.button3 {
+
+
+    
+    width: 2px;
+        height: 0px;
+    display: block;
+        margin-right: auto;
+    margin-left: auto;
+        font-size: 1px;
+    position: relative;
+        top: -220px;
+    right: 130px;    
+    
+
+}
+
+.button4 {
+
+
+    width: 2px;
+        height: 0px;
+    display: block;
+        margin-right: auto;
+    margin-left: auto;
+        font-size: 1px;
+    position: relative;
+        top: -220px;
+    left: 50px;    
+    
+
+}
+
+.button5 {
+
+width: 2px;
+    height: 0px;
+display: block;
+    margin-right: auto;
+margin-left: auto;
+    font-size: 1px;
+position: relative;
+    top: -220px;
+left: 175px;    
+
+
+
+}
+
+.button7 {
+
+    display: flex;
+    position: relative;
+    top: -20px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.button6 {
+
+    display: flex;
+    position: relative;
+    top: -20px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.button8 {
+
+    display: flex;
+    position: relative;
+    top: -20px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+.button9 {
+
+    display: flex;
+    position: relative;
+    top: -1px;
+    margin-right: auto;
+    margin-left: auto;
 
 }
