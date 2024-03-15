@@ -1,0 +1,157 @@
+body, html {
+    background-color: #ffffff;
+}
+
+    .dengue {
+    display: flex;
+        position: relative;
+    border: linear-gradient(to right,	#3CB371, #00FA9A) 10px solid;
+        top: -135px;
+    height: 134px;
+         width: 1349px;
+    right: 8px;
+         background-color: 	#3CB371; 
+    background-image: linear-gradient( to right, 	#3CB371, 	#00FA9A);
+
+}
+
+  .dengue img {
+
+    display: flex;
+        position: relative;
+    top: -80px;
+        left: -67px;
+    right: 95px;
+  
+  }
+
+  .dengue h1 {
+
+    display: flex;
+        position: relative;
+    left: -123px;
+        width: 2px;
+    top: 20px;
+     
+  }
+
+
+ .dengue2 img {
+
+    display: flex;
+        position: relative;
+    left: 350px;
+
+
+
+ }
+
+   
+.button {
+
+    width: 75px;
+        height: 55px;
+    display: block;
+        margin-right: auto;
+    margin-left: auto;
+        font-size: 20px;
+   
+
+}
+
+.dengue4 img {
+
+    display: flex;
+        position: relative;
+    width: 750px;
+        height: 500px;
+    left: 300px;
+        top: -35px;
+
+}
+
+
+.dengue3 img {
+
+    display: flex;
+    position: relative;
+width: 750px;
+    height: 400px;
+left: 300px;
+    top: -30px;
+
+
+}
+
+.button1 {
+
+    width: 2px;
+        height: 0px;
+    display: block;
+        margin-right: auto;
+    margin-left: auto;
+        font-size: 1px;
+    position: relative;
+        top: -220px;
+    right: 220px;    
+    
+
+}
+  
+ 
+.dengue5 {
+
+    display: flex;
+    position: relative;
+border: linear-gradient(to right,	#3CB371, #00FA9A) 10px solid;
+    top: -1px;
+height: 300px;
+     width: 1349px;
+right: 8px;
+     background-color: 	#3CB371; 
+background-image: linear-gradient( to right, 	#3CB371, 	#00FA9A);
+
+}
+
+.button2 {
+
+    width: 2px;
+        height: 0px;
+    display: flex;
+        margin-right: auto;
+    margin-left: auto;
+        font-size: 1px;
+    position: relative;
+        top: -600px;
+    right: 220px;    
+    
+}
+
+.sus img {
+
+    display:flex;
+        position: relative;
+    right: -460px;
+
+}
+
+.sus2{
+
+    display: block;
+
+
+}
+
+.dengue7 {
+
+    display: flex;
+    position: relative;
+border: linear-gradient(to right,	#3CB371, #00FA9A) 10px solid;
+    top: -1px;
+height: 300px;
+     width: 1349px;
+right: 8px;
+     background-color: 	#3CB371; 
+background-image: linear-gradient( to right, 	#3CB371, 	#00FA9A);
+
+}
