@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+   
+
+</head>
+
+
+
+
+
+<body style="background-color: white; font-family:Verdana">
+
+    <div class="titulo">
+    <h1 style="color: #000">JOJOFAG</h1>
+    </div>
+    
+
+  <div class="slideshow-container">
+    <div class="slide fade">
+      <img src="1.jpg" style="width:100%">
+    </div>
+    <div class="slide fade">
+      <img src="2.jpg" style="width:100%">
+    </div>
+    <div class="slide fade">
+      <img src="" style="width:100%">
+    </div>
+  </div>
+
+ 
+    <h2 style="color:black">Dados</h2>
+<div class="quadro">
+    <table border="1" width="100%">
+  <tr>
+    <td>Jojo's Diamond is Unbreakable</td>
+    <td>Teste</td>
+    <tr>
+      </table>
+</div>
+     
+      <h2 style="color: #000"> Descrição</h2>
+      <p>
+        "JoJo's Bizarre Adventure: Parte 4 - Diamond is Unbreakable" é a quarta parte desta icônica série de mangá escrita e ilustrada por Hirohiko Araki. Esta parte se passa na fictícia cidade japonesa de Morioh e segue as aventuras de Josuke Higashikata, um jovem com habilidades únicas chamadas "Stands".
+      </p>
+
+
+
+      <h2 style="color: #000">Sinopse</h2>
+      <p>
+        "JoJo's Bizarre Adventure: Parte 4 - Diamond is Unbreakable" segue a história de Josuke Higashikata, um jovem com habilidades especiais conhecidas como "Stands", que vive na pacata cidade de Morioh. Junto com seus amigos, Josuke se envolve em uma série de confrontos contra usuários de Stands malignos que ameaçam a segurança da cidade.</p>
+        <p>
+            A trama se desenrola com a descoberta de um serial killer chamado Yoshikage Kira, cuja obsessão por mãos o leva a cometer uma série de assassinatos. Enquanto Josuke e seus amigos tentam desvendar os mistérios por trás dos crimes de Kira, eles também enfrentam uma variedade de outros usuários de Stands com poderes estranhos e perigosos.  
+        </p>
+      
+      
+      
+        <h2 style="color: #000">Opiniao</h2>   
+      <p>
+        
+        "JoJo's Bizarre Adventure: Parte 4 - Diamond is Unbreakable" é uma parte emocionante e envolvente da icônica série de mangá. Esta parte se destaca por sua atmosfera mais descontraída em comparação com partes anteriores, o que permite explorar mais profundamente os personagens e a cidade de Morioh.
+      </p>
+      <p>
+        Uma das maiores forças da Parte 4 é sua galeria diversificada de personagens, cada um com sua própria personalidade distinta e história de fundo interessante. A dinâmica entre esses personagens é cativante e adiciona uma camada de profundidade às interações enquanto enfrentam os desafios que surgem em Morioh.
+      </p>
+    <p>
+        Além disso, os confrontos entre os usuários de Stands nesta parte são alguns dos mais criativos e imaginativos da série. Hirohiko Araki demonstra sua habilidade em criar batalhas estratégicas e cheias de reviravoltas, mantendo os leitores constantemente intrigados com o que vai acontecer a seguir.
+    </p>
+    <p>
+        A ambientação em Morioh também é um ponto forte, com sua atmosfera única e detalhes peculiares que dão vida à cidade de maneira vibrante. A mistura de elementos sobrenaturais com o cotidiano cria um cenário intrigante para as aventuras de Josuke e seus amigos.
+    </p>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
