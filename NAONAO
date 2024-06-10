@@ -1,0 +1,20 @@
+.titulo {
+
+   display: block;
+        position: relative;
+    border:white;
+        top: -20px;
+    height: 60px;
+         width: 648px;
+    right: 8px;
+         background-color: 	#3CB371; 
+    background-image: linear-gradient(to right, #713112, #e6b68b);
+    text-align: center;
+
+}
+
+.tabela {
+
+  background-color: black;
+
+}
