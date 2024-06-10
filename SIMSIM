@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-width: 1px; 
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        .center-text {
+            text-align: center; 
+        }
+        .float-img {
+            float: left;
+            margin-right: 20px;
+        }
+        .clear {
+            clear: both;
+        }
+    </style>
+</head>
+<body style="background-color:#e8cb9a; font-family:Verdana">
+
+    <div class="titulo">
+        <center><h1 style="color:#">RESENHA:</h1></center>
+    </div>
+
+    <img src="https://i.imgur.com/HeXVKV9.png" width="100%">
+
+    <h2 style="color:#000">SINOPSE</h2>
+
+    <p>Michael Oher é um jovem negro que enfrenta uma vida cheia de dificuldades, sendo filho de uma mãe viciada e sem ter um lugar fixo para morar. Apesar das adversidades, ele possui uma notável aptidão para os esportes. Um dia, enquanto caminha em direção ao estádio da escola para se abrigar da chuva, ele é avistado pela família Tuohy. Leigh Anne Tuohy, a matriarca da família milionária, o convida para passar uma noite em sua casa.
+    </p>
+    <p>
+        Michael não poderia imaginar que esse gesto de generosidade mudaria o curso de sua vida para sempre. Com o apoio contínuo dos Tuohy e de uma tutora dedicada, Michael começa a explorar e desenvolver seu verdadeiro potencial, tanto nos estudos quanto no futebol americano. Através do amor e da orientação de sua nova família, ele descobre novas oportunidades e vê um futuro promissor se desenrolar à sua frente.
+    </p>
+
+    <table>
+        <div class="tabela">
+        <tr>
+            <td class="center-text" colspan="2"><b>INFORMAÇÕES</b></td>
+        </tr>
+        <tr>
+            <td style="color:#"><b>Título Original</b></td>
+            <td>The Blind Side</td>
+        </tr>
+        <tr>
+            <td style="color:#"><b>Duração</b></td>
+            <td>2 Horas e 9 minutos (129 minutos).</td>
+        </tr>
+        <tr>
+            <td style="color:#"><b>Premiações</b></td>
+            <td><strong>Oscar (Academy Awards)</strong> Vencedor: Melhor Atriz (Sandra Bullock)<br>
+                <strong>Indicado:</strong> Melhor Filme<br>
+                <strong>Globo de Ouro (Golden Globe Awards)</strong> Vencedor: Melhor Atriz em Filme de Drama (Sandra Bullock)<br>
+                <strong>Screen Actors Guild Awards (SAG)</strong> Vencedor: Melhor Performance de uma Atriz em um Papel Principal (Sandra Bullock)<br>
+                <strong>Critics' Choice Movie Awards</strong> Vencedor: Melhor Atriz (Sandra Bullock)
+            </td>
+        </tr>
+        <tr>
+            <td style="color:#"><b>Classificação</b></td>
+            <td>Apenas para maiores de 10 anos</td>
+        </tr>
+        <tr>
+            <td style="color:#"><b>Atores Principais</b></td>
+            <td><strong>Sandra Bullock</strong> como Leigh Anne Tuohy e <strong>Quinton Aaron</strong> como Michael Oher</td>
+        </tr>
+        </div>
+    </table>
+
+    <h2 style="color:#">TÓPICOS ABORDADOS NO FILME</h2>
+
+    <img class="float-img" src="https://classic.exame.com/wp-content/uploads/2023/08/UmSonhoPossivel.jpg?quality=70&strip=info&w=1024" width="300px">
+
+    <p>"Um Sonho Possível" ("The Blind Side") aborda vários tópicos importantes e inspiradores. Sendo alguns deles:</p>
+
+
+    <p><strong>Superação de Adversidades:</strong> O filme narra a trajetória de Michael Oher, que enfrenta uma infância difícil, sem-teto e com uma mãe viciada, e como ele supera essas adversidades para se tornar um atleta de sucesso.</p>
+
+
+    <p><strong>Adoção e Inclusão:</strong> A história destaca a adoção informal de Michael pela família Tuohy e como eles o acolhem, proporcionando-lhe um lar estável e amoroso. O filme mostra a importância da inclusão e do acolhimento na vida de jovens em situação de risco.</p>
+
+
+    <p><strong>Impacto da Educação:</strong> O papel crucial da educação na vida de Michael é evidenciado, com a ajuda de uma tutora dedicada e a insistência dos Tuohy para que ele melhore seu desempenho acadêmico, abrindo-lhe novas oportunidades.</p>
+
+
+    <p><strong>Racismo e Discriminação Social:</strong> O filme aborda as questões de racismo e desigualdade social, mostrando os preconceitos que Michael enfrenta tanto na sociedade quanto no ambiente escolar, e como o apoio de sua nova família o ajuda a lidar com esses desafios.</p>
+
+
+    <p><strong>Importância do Esporte:</strong> O esporte, especificamente o futebol americano, é apresentado como uma via de escape e uma oportunidade de crescimento para Michael. O filme destaca como a disciplina e o trabalho em equipe no esporte podem transformar vidas.</p>
+
+
+
+    <div class="clear"></div>
+
+</body>
+</html>
